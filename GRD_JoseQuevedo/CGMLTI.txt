@@ -1,7 +1,2 @@
-Oferta academica del CGMLTI
-- Teleinormatica 
-- Logistica 
-- Mercadeo 
-- Industrias creativas 
-- Formación complementaria
 
+prueba::
